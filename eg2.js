@@ -38,4 +38,4 @@ function loginUserMessage2(username2 = "Esther") {
   }
   return `${username2} just logged in`;
 }
-console.log(loginUserMessage("Catherine")); // value gets overrided
+console.log(loginUserMessage("Catherine")); // value gets overrided..
